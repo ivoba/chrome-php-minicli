@@ -1,0 +1,6 @@
+{
+    "require": {
+        "minicli/minicli": "^4.0",
+        "chrome-php/chrome": "^1.9"
+    }
+}
